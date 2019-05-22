@@ -31,4 +31,8 @@ public class TestBean {
         this.age = age;
         this.name = name;
     }
+
+    private void testUpload(){
+
+    }
 }

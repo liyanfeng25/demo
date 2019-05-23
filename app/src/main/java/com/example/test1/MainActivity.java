@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
         Log.i("test", "onCreate: "+a);
     }
 
+	//shaozhengyi
     private int test(int age) {
         if(age==1){
             return 10;
